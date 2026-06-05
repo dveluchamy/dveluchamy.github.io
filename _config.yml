@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Dhanasekaran Veluchamy
 description: Technical Bio
+github_url: https://github.com/dveluchamy
+linkedin_url: https://www.linkedin.com/in/dhana-veluchamy

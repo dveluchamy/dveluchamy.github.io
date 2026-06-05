@@ -1,9 +1,3 @@
-<div style="float: right; margin: 0 0 1.5em 1.5em; padding: 1em 1.25em; border: 1px solid #dce6f0; border-radius: 6px; background: #f7fafc; min-width: 200px; font-size: 0.95em;">
-  <strong>Connect</strong><br>
-  <a href="https://www.linkedin.com/in/dhana-veluchamy/">LinkedIn</a><br>
-  <a href="https://github.com/dveluchamy">GitHub</a><br>
-</div>
-
 I design the systems that sit between customers, agents, and AI — across voice, chat, email, and the messy bits in between.
 
 Twenty-one years in, mostly building integration-heavy platforms in the CCaaS and CRM space. Currently a Senior Software Architect at NiCE CXone, focused on putting Generative AI to work in production.
@@ -36,6 +30,4 @@ TypeScript / React / Node.js on the front of the stack. Python / FastAPI for AI 
 
 ## Get in touch
 
-Happy to talk shop on AI-first platform architecture, CCaaS integration, or the practical side of getting GenAI into production. LinkedIn and email above.
-
-<div style="clear: both;"></div>
+Happy to talk shop on AI-first platform architecture, CCaaS integration, or the practical side of getting GenAI into production. The GitHub and LinkedIn links are in the header above.
