@@ -26,7 +26,7 @@ Framed around the problem rather than the title — the résumé covers the rest
 
 ## What I reach for
 
-TypeScript / React / Node.js on the front of the stack. Python / FastAPI for AI service work. AWS (ECS, EKS), Docker, GitHub Actions for delivery. OAuth2, OpenID, OpenAPI, OpenTelemetry as the open-spec backbone.
+TypeScript / React on the front end. Python/FastAPI, C#/ASP.NET, or TypeScript on Node.js/Express on the back end — whichever fits the problem and the team. Docker for packaging; AWS (IAM, ECS/EKS) as the primary cloud, with GCP and Azure in the mix when the workload calls for it. OAuth 2.0, OpenID, OpenAPI, and OpenTelemetry as the open-spec backbone.
 
 ## Get in touch
 
