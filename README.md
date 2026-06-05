@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<div style="float: right; margin: 0 0 1.5em 1.5em; padding: 1em 1.25em; border: 1px solid #dce6f0; border-radius: 6px; background: #f7fafc; min-width: 200px; font-size: 0.95em;">
+  <strong>Connect</strong><br>
+  <a href="https://www.linkedin.com/in/dhana-veluchamy/">LinkedIn</a><br>
+  <a href="https://github.com/dveluchamy">GitHub</a><br>
+</div>
 
-You can use the [editor on GitHub](https://github.com/dveluchamy/dveluchamy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I design the systems that sit between customers, agents, and AI — across voice, chat, email, and the messy bits in between.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Twenty-one years in, mostly building integration-heavy platforms in the CCaaS and CRM space. Currently a Senior Software Architect at NiCE CXone, focused on putting Generative AI to work in production.
 
-### Markdown
+## How I work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Clarity over cleverness.** A system the next architect can read and reason about beats one that's a few lines shorter.
+- **Seams are first-class design.** Most production pain hides at the boundaries between systems, not inside them. I treat integration contracts as carefully as the code they connect.
+- **API standards earn their keep** when they make the right thing the easy thing for the teams using them. Otherwise they're just documentation no one reads.
+- **Observability is a product surface**, not an afterthought — especially for AI services, where behavior shifts under load and silent failure modes are easy to ship.
+- **Mentoring is leverage.** Architectural decisions outlive the architect; teaching others to make them well is the part I'd do for free.
 
-```markdown
-Syntax highlighted code block
+## Currently
 
-# Header 1
-## Header 2
-### Header 3
+- Going deep on Generative AI integration — LLM orchestration, RAG over enterprise knowledge bases, and GenAI API governance at platform scale.
+- Working with agentic engineering patterns and using Claude Code in daily workflows.
+- Designing observability primitives for AI services: latency, usage shape, and the signals that catch quality drift before customers do.
 
-- Bulleted
-- List
+## Selected work
 
-1. Numbered
-2. List
+Framed around the problem rather than the title — the résumé covers the rest.
 
-**Bold** and _Italic_ and `Code` text
+- **Agent Copilot (NiCE CXone)** — An AI assistant that augments contact center agents with RAG-grounded knowledge. The interesting part wasn't the LLM call; it was governing the API surface so dozens of engineering teams could integrate AI capabilities consistently and safely.
+- **Omnichannel agent workspace** — Unified voice, chat, email, and messaging interactions into a single agent surface. Most of the real work lived at the integration seams: aggregating CRM data in real time and keeping agent state coherent across channels.
+- **CRM integrations at scale** — Salesforce (CTI Toolkit, Open CTI, Service Cloud Voice), MS Dynamics (CIF), Oracle Service Cloud Add-ins, plus a production app published on the Salesforce AppExchange. Each one a lesson in the gap between vendor docs and what actually runs in production.
 
-[Link](url) and ![Image](src)
-```
+## What I reach for
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+TypeScript / React / Node.js on the front of the stack. Python / FastAPI for AI service work. AWS (ECS, EKS), Docker, GitHub Actions for delivery. OAuth2, OpenID, OpenAPI, OpenTelemetry as the open-spec backbone.
 
-### Jekyll Themes
+## Get in touch
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dveluchamy/dveluchamy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Happy to talk shop on AI-first platform architecture, CCaaS integration, or the practical side of getting GenAI into production. LinkedIn and email above.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div style="clear: both;"></div>
