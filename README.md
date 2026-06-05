@@ -30,4 +30,7 @@ TypeScript / React / Node.js on the front of the stack. Python / FastAPI for AI 
 
 ## Get in touch
 
-Happy to talk shop on AI-first platform architecture, CCaaS integration, or the practical side of getting GenAI into production. The GitHub and LinkedIn links are in the header above.
+Happy to talk shop on AI-first platform architecture, CCaaS integration, or the practical side of getting GenAI into production.
+
+<a href="{{ site.github_url }}" class="btn" target="_blank" rel="noopener">GitHub</a>
+<a href="{{ site.linkedin_url }}" class="btn" target="_blank" rel="noopener">LinkedIn</a>
